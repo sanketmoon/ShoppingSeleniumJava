@@ -1,0 +1,670 @@
+[INFO ] 2022-11-09 04:40:09.825 [main] Shopping - url opened
+[INFO ] 2022-11-09 04:40:16.047 [main] Shopping - user name not matched
+[INFO ] 2022-11-09 04:45:09.410 [main] Shopping - url opened
+[INFO ] 2022-11-09 04:45:18.710 [main] Shopping - user name not matched
+[INFO ] 2022-11-09 04:48:22.363 [main] Shopping - url opened
+[INFO ] 2022-11-09 04:48:31.169 [main] Shopping - user name not matched
+[INFO ] 2022-11-09 04:55:15.861 [main] Shopping - url opened
+[INFO ] 2022-11-09 04:55:24.903 [main] Shopping - user name not matched
+[INFO ] 2022-11-09 05:01:22.489 [main] Shopping - url opened
+[INFO ] 2022-11-09 05:01:31.023 [main] Shopping - user name not matched
+[INFO ] 2022-11-09 05:10:10.046 [main] Shopping - url opened
+[INFO ] 2022-11-09 05:10:18.529 [main] Shopping - user name not matched
+[INFO ] 2022-11-09 05:14:59.687 [main] Shopping - url opened
+[INFO ] 2022-11-09 05:15:08.428 [main] Shopping - user name not matched
+[INFO ] 2022-11-09 14:31:41.265 [main] Shopping - url opened
+[INFO ] 2022-11-09 14:31:54.791 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 01:10:10.077 [main] Shopping - url opened
+[INFO ] 2022-11-10 01:10:23.454 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 01:13:42.172 [main] Shopping - url opened
+[INFO ] 2022-11-10 01:13:54.436 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 01:42:11.417 [main] Shopping - url opened
+[INFO ] 2022-11-10 01:42:20.375 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 03:12:20.639 [main] Shopping - url opened
+[INFO ] 2022-11-10 03:12:32.617 [main] Shopping - user name verify successfully
+[INFO ] 2022-11-10 06:41:28.962 [main] Shopping - url opened
+[INFO ] 2022-11-10 06:41:41.551 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 06:43:48.424 [main] Shopping - url opened
+[INFO ] 2022-11-10 06:44:00.132 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 06:57:12.592 [main] Shopping - url opened
+[INFO ] 2022-11-10 06:57:24.380 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 08:14:25.011 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:14:36.351 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 08:15:46.320 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:15:57.462 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 08:16:06.904 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:16:12.006 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result
+[INFO ] 2022-11-10 08:17:29.760 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:17:43.451 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 08:17:50.755 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:17:55.814 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result
+[INFO ] 2022-11-10 08:19:02.148 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:19:14.308 [main] Shopping - user name not matched
+[INFO ] 2022-11-10 08:19:21.810 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:19:32.340 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result
+[INFO ] 2022-11-10 08:27:10.400 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:27:18.735 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result
+[INFO ] 2022-11-10 08:40:54.800 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:41:03.679 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-10 08:45:11.974 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:45:20.798 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 08:53:40.536 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:53:42.753 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-10 08:53:50.189 [main] Shopping - Account is Created
+[INFO ] 2022-11-10 08:53:50.239 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-10 08:53:57.375 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:53:58.524 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 08:54:05.628 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 08:56:43.546 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:56:44.578 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-10 08:56:52.036 [main] Shopping - Account is Created
+[INFO ] 2022-11-10 08:56:52.067 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-10 08:57:02.919 [main] Shopping - url opened
+[INFO ] 2022-11-10 08:57:04.339 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 08:57:11.320 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 09:00:55.100 [main] Shopping - url opened
+[INFO ] 2022-11-10 09:00:56.222 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-10 09:01:04.070 [main] Shopping - Account is Created
+[INFO ] 2022-11-10 09:01:04.098 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-10 09:01:09.561 [main] Shopping - url opened
+[INFO ] 2022-11-10 09:01:10.657 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 09:01:17.547 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 09:03:53.348 [main] Shopping - url opened
+[INFO ] 2022-11-10 09:03:55.299 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-10 09:04:02.506 [main] Shopping - Account is Created
+[INFO ] 2022-11-10 09:04:02.540 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-10 09:04:08.725 [main] Shopping - url opened
+[INFO ] 2022-11-10 09:04:10.050 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 09:04:17.687 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-10 09:10:39.121 [main] Shopping - url opened
+[INFO ] 2022-11-10 09:10:40.245 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-10 09:10:47.806 [main] Shopping - Account is Created
+[INFO ] 2022-11-10 09:10:47.838 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-10 09:10:52.888 [main] Shopping - url opened
+[INFO ] 2022-11-10 09:10:54.020 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 09:11:02.109 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 09:12:23.235 [main] Shopping - url opened
+[INFO ] 2022-11-10 09:12:25.238 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-10 09:12:34.250 [main] Shopping - Account is Created
+[INFO ] 2022-11-10 09:12:34.277 [main] Shopping - ***user name verify successfully***
+[INFO ] 2022-11-10 09:12:45.394 [main] Shopping - url opened
+[INFO ] 2022-11-10 09:12:46.870 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 09:12:53.831 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 09:15:16.842 [main] Shopping - url opened
+[INFO ] 2022-11-10 09:15:18.085 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-10 09:15:25.763 [main] Shopping - Account is Created
+[INFO ] 2022-11-10 09:15:25.796 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-10 09:15:47.803 [main] Shopping - url opened
+[INFO ] 2022-11-10 09:15:49.678 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 09:15:57.322 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-10 13:58:03.849 [main] Shopping - url opened
+[INFO ] 2022-11-10 13:58:09.515 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 13:58:17.652 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 14:01:30.595 [main] Shopping - url opened
+[INFO ] 2022-11-10 14:01:34.326 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 14:01:42.611 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-10 14:02:40.481 [main] Shopping - url opened
+[INFO ] 2022-11-10 14:02:45.713 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 14:02:53.856 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 18:13:38.588 [main] Shopping - url opened
+[INFO ] 2022-11-10 18:13:40.800 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 18:13:47.782 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 18:17:36.685 [main] Shopping - url opened
+[INFO ] 2022-11-10 18:17:39.051 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 18:17:47.447 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 19:10:43.975 [main] Shopping - url opened
+[INFO ] 2022-11-10 19:10:46.874 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 19:10:53.896 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 19:29:29.340 [main] Shopping - url opened
+[INFO ] 2022-11-10 19:29:31.648 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 19:29:38.865 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 19:34:38.996 [main] Shopping - url opened
+[INFO ] 2022-11-10 19:34:41.163 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 19:34:48.068 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-10 19:35:35.903 [main] Shopping - url opened
+[INFO ] 2022-11-10 19:35:38.493 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 19:35:45.523 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:03:09.471 [main] Shopping - url opened
+[INFO ] 2022-11-10 20:03:12.000 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:03:19.285 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-10 20:04:51.551 [main] Shopping - url opened
+[INFO ] 2022-11-10 20:04:55.407 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:05:02.828 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-10 20:07:28.091 [main] Shopping - url opened
+[INFO ] 2022-11-10 20:07:30.349 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:07:38.482 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:09:16.015 [main] Shopping - url opened
+[INFO ] 2022-11-10 20:09:18.474 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:09:25.534 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:09:28.654 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:09:37.213 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:09:40.511 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:09:47.809 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:09:50.972 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:09:58.210 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:11:55.549 [main] Shopping - url opened
+[INFO ] 2022-11-10 20:11:58.741 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:12:07.231 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:12:10.535 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:12:17.648 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:12:20.821 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:12:28.729 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:12:31.833 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:12:39.048 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:18:46.197 [main] Shopping - url opened
+[INFO ] 2022-11-10 20:18:49.049 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:18:56.157 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:19:00.393 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:19:10.534 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:19:14.389 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:19:22.128 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:19:25.356 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:19:32.487 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:43:57.167 [main] Shopping - url opened
+[INFO ] 2022-11-10 20:44:03.252 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:44:11.164 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:44:14.546 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:44:21.802 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:44:24.999 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:44:32.280 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:44:35.470 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:44:42.649 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:52:12.102 [main] Shopping - url opened
+[INFO ] 2022-11-10 20:52:14.644 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:52:23.125 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:52:26.678 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:52:33.953 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:52:37.116 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:52:44.311 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-10 20:52:47.326 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-10 20:52:54.258 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-10 22:12:21.188 [main] Shopping - url opened
+[INFO ] 2022-11-10 22:15:31.847 [main] Shopping - url opened
+[INFO ] 2022-11-10 22:18:40.166 [main] Shopping - url opened
+[INFO ] 2022-11-10 22:20:26.319 [main] Shopping - url opened
+[INFO ] 2022-11-10 22:31:05.336 [main] Shopping - url opened
+[INFO ] 2022-11-10 22:31:13.485 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-10 22:31:18.574 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-10 22:40:18.459 [main] Shopping - url opened
+[INFO ] 2022-11-10 22:40:26.997 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-10 22:40:32.096 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-10 22:40:34.134 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-10 22:40:34.190 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-10 22:40:34.234 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-10 22:44:49.341 [main] Shopping - url opened
+[INFO ] 2022-11-10 22:44:57.736 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-10 22:45:02.808 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-10 22:45:04.810 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-10 22:45:04.840 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-10 22:45:04.881 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-11 16:21:32.273 [main] Shopping - url opened
+[INFO ] 2022-11-11 16:21:45.987 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-11 16:21:51.415 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-11 16:21:55.695 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-11 16:21:55.871 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-11 16:21:55.989 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-11 16:25:53.026 [main] Shopping - url opened
+[INFO ] 2022-11-11 16:26:00.354 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-11 16:26:08.541 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-11 16:26:12.504 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-11 16:26:20.902 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-11 16:26:25.235 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-11 16:26:34.020 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-11 16:26:40.721 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-11 16:26:49.070 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-14 04:18:56.327 [main] Shopping - url opened
+[INFO ] 2022-11-14 04:18:59.392 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 04:19:09.266 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 04:19:09.445 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 04:19:20.544 [main] Shopping - url opened
+[INFO ] 2022-11-14 04:19:22.361 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 04:20:04.372 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 04:20:09.599 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 04:20:11.713 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 04:20:12.320 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 04:20:12.446 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 04:25:06.168 [main] Shopping - url opened
+[INFO ] 2022-11-14 04:25:09.236 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 04:25:18.106 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 04:25:18.179 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 04:25:28.780 [main] Shopping - url opened
+[INFO ] 2022-11-14 04:25:31.237 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 04:26:26.241 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 04:26:31.443 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 04:26:34.155 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 04:26:39.224 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 04:26:39.348 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 04:32:57.112 [main] Shopping - url opened
+[INFO ] 2022-11-14 04:32:59.978 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 04:33:09.639 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 04:33:09.705 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 04:33:11.751 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 04:33:20.332 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 04:33:47.747 [main] Shopping - url opened
+[INFO ] 2022-11-14 04:33:57.897 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 04:34:03.085 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 04:34:05.259 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 04:34:10.310 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 04:34:10.366 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 04:44:15.675 [main] Shopping - url opened
+[INFO ] 2022-11-14 04:44:18.595 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 04:44:27.746 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 04:44:27.846 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 04:44:30.123 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 04:44:38.824 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 04:45:07.413 [main] Shopping - url opened
+[INFO ] 2022-11-14 04:45:17.252 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 04:45:22.386 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 04:45:25.969 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 04:45:31.077 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 04:45:31.275 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 04:52:02.674 [main] Shopping - url opened
+[INFO ] 2022-11-14 04:52:04.531 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 04:52:13.892 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 04:52:54.180 [main] Shopping - url opened
+[INFO ] 2022-11-14 04:53:03.675 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 04:53:08.766 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 04:53:11.615 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 04:53:16.733 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 04:53:16.885 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 05:01:56.856 [main] Shopping - url opened
+[INFO ] 2022-11-14 05:01:58.409 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 05:02:07.863 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 05:02:07.965 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 05:02:10.373 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 05:02:19.171 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 05:02:49.112 [main] Shopping - url opened
+[INFO ] 2022-11-14 05:02:58.420 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 05:03:03.594 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 05:03:05.852 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 05:03:10.953 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 05:03:11.104 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 05:06:24.439 [main] Shopping - url opened
+[INFO ] 2022-11-14 05:06:26.301 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 05:06:35.776 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 05:06:35.835 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 05:06:37.386 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 05:06:45.802 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 05:07:50.382 [main] Shopping - url opened
+[INFO ] 2022-11-14 05:07:51.988 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 05:08:00.696 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 05:11:53.226 [main] Shopping - url opened
+[INFO ] 2022-11-14 05:11:55.563 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 05:12:06.880 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 05:12:06.958 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 05:12:53.329 [main] Shopping - url opened
+[INFO ] 2022-11-14 05:13:03.341 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 05:13:08.555 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 05:13:11.990 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 05:13:17.122 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 05:13:17.218 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 16:30:33.463 [main] Shopping - url opened
+[INFO ] 2022-11-14 16:30:40.503 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 16:30:49.776 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 16:30:49.855 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 16:30:51.871 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 16:31:01.506 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-14 16:33:15.636 [main] Shopping - url opened
+[INFO ] 2022-11-14 16:33:20.080 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 16:33:29.238 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 16:33:29.335 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 16:33:38.379 [main] Shopping - url opened
+[INFO ] 2022-11-14 16:33:41.379 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 16:33:50.106 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-14 16:34:01.914 [main] Shopping - url opened
+[INFO ] 2022-11-14 16:34:19.571 [main] Shopping - url opened
+[INFO ] 2022-11-14 16:34:28.905 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 16:34:33.989 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 16:34:37.909 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 16:34:43.034 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 16:34:43.157 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 16:34:55.222 [main] Shopping - url opened
+[INFO ] 2022-11-14 16:34:57.575 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 16:43:02.934 [main] Shopping - url opened
+[INFO ] 2022-11-14 16:43:04.494 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 16:50:39.034 [main] Shopping - url opened
+[INFO ] 2022-11-14 16:50:42.034 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 16:55:01.756 [main] Shopping - url opened
+[INFO ] 2022-11-14 16:55:05.960 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 16:58:38.467 [main] Shopping - url opened
+[INFO ] 2022-11-14 16:58:41.078 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 17:34:28.543 [main] Shopping - url opened
+[INFO ] 2022-11-14 17:34:30.063 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 17:53:09.126 [main] Shopping - url opened
+[INFO ] 2022-11-14 17:53:10.623 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 17:54:30.625 [main] Shopping - url opened
+[INFO ] 2022-11-14 17:54:32.472 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 18:05:48.281 [main] Shopping - url opened
+[INFO ] 2022-11-14 18:05:49.663 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 18:42:56.248 [main] Shopping - url opened
+[INFO ] 2022-11-14 18:43:03.170 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 18:46:01.790 [main] Shopping - url opened
+[INFO ] 2022-11-14 18:46:05.144 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 18:53:50.818 [main] Shopping - url opened
+[INFO ] 2022-11-14 18:53:52.624 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 18:57:10.716 [main] Shopping - url opened
+[INFO ] 2022-11-14 18:57:14.347 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 18:57:24.250 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 18:57:24.347 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 18:57:35.650 [main] Shopping - url opened
+[INFO ] 2022-11-14 18:57:38.713 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 18:57:49.510 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-14 18:58:19.199 [main] Shopping - url opened
+[INFO ] 2022-11-14 18:58:36.011 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-14 18:59:04.476 [main] Shopping - url opened
+[INFO ] 2022-11-14 18:59:14.069 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 18:59:19.144 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 18:59:22.786 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 18:59:27.833 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 18:59:27.876 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 18:59:58.427 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:00:00.376 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 19:04:54.645 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:04:58.901 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 19:05:06.715 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 19:05:06.742 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 19:05:17.176 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:05:19.104 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 19:05:32.159 [main] Shopping - ***Name On Sign In Page Not Match With Expected Result***
+[INFO ] 2022-11-14 19:05:42.623 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:05:54.924 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-14 19:06:21.096 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:06:30.612 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 19:06:35.688 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 19:06:37.144 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 19:06:42.187 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 19:06:42.228 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 19:07:07.364 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:07:09.954 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 19:17:31.576 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:17:32.888 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 19:17:42.270 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 19:17:42.298 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 19:18:09.262 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:18:10.768 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 19:18:23.419 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 19:18:50.826 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:19:05.637 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-14 19:19:28.487 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:19:37.835 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 19:19:42.903 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 19:19:48.711 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 19:19:53.746 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 19:19:53.786 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 19:20:03.487 [main] Shopping - url opened
+[INFO ] 2022-11-14 19:20:05.044 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 20:24:48.256 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:24:50.261 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 20:24:59.702 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 20:24:59.802 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 20:25:06.572 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:25:08.203 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 20:25:21.093 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 20:25:30.572 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:25:42.124 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-14 20:25:49.001 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:25:58.915 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 20:26:04.011 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 20:26:06.309 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 20:26:11.424 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 20:26:11.586 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 20:26:23.390 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:26:25.082 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 20:30:50.057 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:30:51.886 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 20:31:03.442 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 20:31:03.538 [main] Shopping - ***user name verify successfully***
+[INFO ] 2022-11-14 20:31:10.011 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:31:12.311 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 20:31:25.709 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 20:31:50.580 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:32:06.203 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-14 20:32:18.512 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:32:32.731 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 20:32:37.817 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 20:32:41.212 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 20:32:46.326 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 20:32:46.469 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 20:33:11.419 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:33:14.884 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 20:43:23.996 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:43:26.378 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 20:43:35.655 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 20:43:35.770 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 20:43:44.922 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:43:47.489 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 20:44:00.539 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 20:44:08.323 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:44:21.665 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-14 20:44:28.952 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:44:39.068 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 20:44:44.275 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 20:44:46.254 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 20:44:51.364 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 20:44:51.505 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 20:44:58.602 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:45:01.039 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 20:50:29.075 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:50:32.057 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 20:50:41.517 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 20:50:41.591 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 20:50:48.924 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:50:50.711 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 20:51:03.950 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 20:51:09.840 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:51:21.567 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-14 20:51:29.311 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:51:39.187 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 20:51:44.332 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 20:51:46.342 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 20:51:51.469 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 20:51:51.645 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 20:51:57.579 [main] Shopping - url opened
+[INFO ] 2022-11-14 20:51:59.553 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 21:01:08.027 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:01:10.241 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 21:01:19.281 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 21:01:19.384 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 21:01:44.238 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:01:46.096 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 21:01:59.144 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 21:02:06.451 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:02:18.089 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-14 21:02:24.233 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:02:34.047 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 21:02:39.191 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 21:02:40.824 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 21:02:45.909 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 21:02:46.033 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 21:02:54.425 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:02:56.725 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 21:08:20.786 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:08:22.860 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 21:08:37.533 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 21:08:37.571 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-14 21:08:53.011 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:08:57.683 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 21:09:11.133 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 21:09:19.661 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:09:32.908 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-14 21:09:46.465 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:09:57.033 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 21:10:02.151 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 21:10:06.803 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 21:10:11.916 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 21:10:12.056 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 21:10:24.336 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:10:26.029 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 21:15:52.360 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:15:54.811 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 21:26:46.662 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:26:48.082 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 21:34:35.062 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:34:36.790 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 21:45:16.918 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:45:18.707 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 21:48:18.806 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:48:20.320 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 21:50:52.789 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:50:54.544 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 21:55:01.339 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:55:03.250 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 21:58:21.826 [main] Shopping - url opened
+[INFO ] 2022-11-14 21:58:23.733 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 22:06:09.486 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:06:42.310 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:08:08.316 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:09:06.172 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:09:08.071 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 22:22:57.585 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:23:00.086 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 22:26:20.344 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:26:22.131 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 22:29:13.578 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:29:16.026 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-14 22:30:17.374 [main] Shopping - Success msg fetch successfully
+[INFO ] 2022-11-14 22:33:17.877 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:33:20.002 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-14 22:33:31.055 [main] Shopping - Account is Created
+[INFO ] 2022-11-14 22:33:31.108 [main] Shopping - ***user name verify successfully***
+[INFO ] 2022-11-14 22:33:37.755 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:33:40.921 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-14 22:33:54.192 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-14 22:34:04.457 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:34:15.533 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-14 22:34:39.034 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:34:47.600 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-14 22:34:52.668 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-14 22:34:54.693 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-14 22:34:59.737 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-14 22:34:59.777 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-14 22:35:23.711 [main] Shopping - url opened
+[INFO ] 2022-11-14 22:35:24.886 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-15 01:40:27.636 [main] Shopping - url opened
+[INFO ] 2022-11-15 01:40:28.613 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-15 01:40:36.219 [main] Shopping - Account is Created
+[INFO ] 2022-11-15 01:40:36.249 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-15 01:41:02.012 [main] Shopping - url opened
+[INFO ] 2022-11-15 01:41:03.155 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-15 01:41:15.125 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-15 01:41:38.387 [main] Shopping - url opened
+[INFO ] 2022-11-15 01:41:49.106 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-15 01:42:14.468 [main] Shopping - url opened
+[INFO ] 2022-11-15 01:42:22.469 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-15 01:42:27.545 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-15 01:42:29.398 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-15 01:42:34.464 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-15 01:42:34.507 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-15 01:42:43.049 [main] Shopping - url opened
+[INFO ] 2022-11-15 01:42:44.269 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-15 02:05:20.105 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:05:21.342 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-15 02:05:29.354 [main] Shopping - Account is Created
+[INFO ] 2022-11-15 02:05:29.420 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-15 02:05:39.981 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:05:41.260 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-15 02:05:53.349 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-15 02:06:22.015 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:06:34.944 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-15 02:07:04.509 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:07:12.668 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-15 02:07:17.747 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-15 02:07:19.384 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-15 02:07:24.413 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-15 02:07:24.456 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-15 02:07:54.530 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:07:56.004 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-15 02:16:59.838 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:17:00.954 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-15 02:17:08.334 [main] Shopping - Account is Created
+[INFO ] 2022-11-15 02:18:00.915 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:18:03.025 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-15 02:18:10.325 [main] Shopping - Account is Created
+[INFO ] 2022-11-15 02:18:10.372 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-15 02:18:32.000 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:18:33.202 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-15 02:18:45.624 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-15 02:19:09.529 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:19:20.106 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-15 02:19:41.812 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:19:50.102 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-15 02:19:55.182 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-15 02:19:56.666 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-15 02:20:01.721 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-15 02:20:01.783 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-15 02:20:07.276 [main] Shopping - url opened
+[INFO ] 2022-11-15 02:20:08.725 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-15 03:23:56.863 [main] Shopping - url opened
+[INFO ] 2022-11-15 03:23:58.283 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-15 04:19:59.090 [main] Shopping - url opened
+[INFO ] 2022-11-15 04:24:45.488 [main] Shopping - url opened
+[INFO ] 2022-11-15 04:24:46.461 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-15 04:24:53.704 [main] Shopping - Account is Created
+[INFO ] 2022-11-15 04:24:53.735 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-15 04:25:03.020 [main] Shopping - url opened
+[INFO ] 2022-11-15 04:25:04.162 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-15 04:25:16.217 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-15 04:25:40.600 [main] Shopping - url opened
+[INFO ] 2022-11-15 04:25:50.485 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-15 04:26:15.118 [main] Shopping - url opened
+[INFO ] 2022-11-15 04:26:23.456 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-15 04:26:28.519 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-15 04:26:30.329 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-15 04:26:35.367 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-15 04:26:35.401 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-15 04:27:00.916 [main] Shopping - url opened
+[INFO ] 2022-11-15 04:27:02.107 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-15 04:42:00.667 [main] Shopping - url opened
+[INFO ] 2022-11-15 04:43:07.163 [main] Shopping - url opened
+[INFO ] 2022-11-15 04:43:07.387 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-15 17:15:03.915 [main] Shopping - url opened
+[INFO ] 2022-11-15 17:15:11.888 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-15 17:15:20.903 [main] Shopping - Account is Created
+[INFO ] 2022-11-15 17:15:21.057 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-15 17:15:37.388 [main] Shopping - url opened
+[INFO ] 2022-11-15 17:15:39.290 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-15 17:15:53.360 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-15 17:16:04.666 [main] Shopping - url opened
+[INFO ] 2022-11-15 17:16:18.891 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-15 17:16:32.765 [main] Shopping - url opened
+[INFO ] 2022-11-15 17:16:42.401 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-15 17:16:47.603 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-15 17:16:51.049 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-15 17:16:56.744 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-15 17:16:56.888 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-15 17:17:13.567 [main] Shopping - url opened
+[INFO ] 2022-11-15 17:17:15.355 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-15 18:32:45.281 [main] Shopping - url opened
+[INFO ] 2022-11-15 18:32:47.455 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-15 18:32:57.725 [main] Shopping - Account is Created
+[INFO ] 2022-11-15 18:32:57.835 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-15 18:33:10.755 [main] Shopping - url opened
+[INFO ] 2022-11-15 18:33:12.700 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-15 18:33:26.155 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-15 18:33:37.044 [main] Shopping - url opened
+[INFO ] 2022-11-15 18:33:50.735 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-15 18:34:18.722 [main] Shopping - url opened
+[INFO ] 2022-11-15 18:34:30.181 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-15 18:34:35.334 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-15 18:34:38.612 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-15 18:34:43.739 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-15 18:34:43.981 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-15 18:34:55.082 [main] Shopping - url opened
+[INFO ] 2022-11-15 18:34:57.147 [main] Shopping - Enter in to user login page
+[INFO ] 2022-11-15 18:49:53.720 [main] Shopping - url opened
+[INFO ] 2022-11-15 18:49:56.539 [main] Shopping - ***Create Account Page Open***
+[INFO ] 2022-11-15 18:50:06.076 [main] Shopping - Account is Created
+[INFO ] 2022-11-15 18:50:06.189 [main] Shopping - ***user name not matched***
+[INFO ] 2022-11-15 18:50:33.117 [main] Shopping - url opened
+[INFO ] 2022-11-15 18:50:35.006 [main] Shopping - Sign In page Opened
+[INFO ] 2022-11-15 18:50:49.663 [main] Shopping - ***Name Match With Expected Result***
+[INFO ] 2022-11-15 18:51:00.288 [main] Shopping - url opened
+[INFO ] 2022-11-15 18:51:14.864 [main] Shopping - Sign Out Completed
+[INFO ] 2022-11-15 18:51:27.317 [main] Shopping - url opened
+[INFO ] 2022-11-15 18:51:37.009 [main] Shopping - ***Sign In Successfully***
+[INFO ] 2022-11-15 18:51:42.177 [main] Shopping - Entered Text in search Box
+[INFO ] 2022-11-15 18:51:44.272 [main] Shopping - Clicked on Search Button
+[INFO ] 2022-11-15 18:51:49.365 [main] Shopping - ***Search text match with expected text*** 
+[INFO ] 2022-11-15 18:51:49.535 [main] Shopping - Search Product Name Matched
+[INFO ] 2022-11-15 18:51:59.064 [main] Shopping - url opened
+[INFO ] 2022-11-15 18:52:00.580 [main] Shopping - Enter in to user login page

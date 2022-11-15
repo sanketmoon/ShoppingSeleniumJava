@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="3" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-15T18:49:36 IST" name="Suite" finished-at="2022-11-15T18:53:04 IST" duration-ms="208245">
+    <groups>
+    </groups>
+    <test started-at="2022-11-15T18:49:36 IST" name="Test" finished-at="2022-11-15T18:53:04 IST" duration-ms="208245">
+      <class name="com.Shopping.testcases.Verify_Create_AccountPge">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.Shopping.testcases.Verify_Create_AccountPge@78123e82]" started-at="2022-11-15T18:49:36 IST" name="launchBrowser" finished-at="2022-11-15T18:49:53 IST" duration-ms="16981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyCreatAccount()[pri:1, instance:com.Shopping.testcases.Verify_Create_AccountPge@78123e82]" started-at="2022-11-15T18:49:53 IST" name="verifyCreatAccount" finished-at="2022-11-15T18:50:06 IST" duration-ms="12850" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.Shopping.testcases.Verify_Create_AccountPge.verifyCreatAccount(Verify_Create_AccountPge.java:46)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreatAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Shopping.testcases.Verify_Create_AccountPge@78123e82]" started-at="2022-11-15T18:50:06 IST" name="tearDown" finished-at="2022-11-15T18:50:23 IST" duration-ms="16604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.Shopping.testcases.Verify_Create_AccountPge@78123e82]" started-at="2022-11-15T18:50:23 IST" name="launchBrowser" finished-at="2022-11-15T18:50:33 IST" duration-ms="9839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyLoginPage()[pri:2, instance:com.Shopping.testcases.Verify_Create_AccountPge@78123e82]" started-at="2022-11-15T18:50:33 IST" name="verifyLoginPage" finished-at="2022-11-15T18:50:49 IST" duration-ms="16545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Shopping.testcases.Verify_Create_AccountPge@78123e82]" started-at="2022-11-15T18:50:49 IST" name="tearDown" finished-at="2022-11-15T18:50:52 IST" duration-ms="2382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.Shopping.testcases.Verify_Create_AccountPge@78123e82]" started-at="2022-11-15T18:50:52 IST" name="launchBrowser" finished-at="2022-11-15T18:51:00 IST" duration-ms="8241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifysignOut()[pri:3, instance:com.Shopping.testcases.Verify_Create_AccountPge@78123e82]" started-at="2022-11-15T18:51:00 IST" name="verifysignOut" finished-at="2022-11-15T18:51:14 IST" duration-ms="14574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysignOut -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Shopping.testcases.Verify_Create_AccountPge@78123e82]" started-at="2022-11-15T18:51:14 IST" name="tearDown" finished-at="2022-11-15T18:51:15 IST" duration-ms="853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Shopping.testcases.Verify_Create_AccountPge -->
+      <class name="com.Shopping.testcases.Tc_VerifySearchProduct">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.Shopping.testcases.Tc_VerifySearchProduct@4f2b503c]" started-at="2022-11-15T18:51:15 IST" name="launchBrowser" finished-at="2022-11-15T18:51:27 IST" duration-ms="11596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifySearchProduct()[pri:4, instance:com.Shopping.testcases.Tc_VerifySearchProduct@4f2b503c]" started-at="2022-11-15T18:51:27 IST" name="verifySearchProduct" finished-at="2022-11-15T18:51:49 IST" duration-ms="22217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Shopping.testcases.Tc_VerifySearchProduct@4f2b503c]" started-at="2022-11-15T18:51:49 IST" name="tearDown" finished-at="2022-11-15T18:51:50 IST" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.Shopping.testcases.Tc_VerifySearchProduct@4f2b503c]" started-at="2022-11-15T18:51:50 IST" name="launchBrowser" finished-at="2022-11-15T18:51:59 IST" duration-ms="9040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyPayment()[pri:5, instance:com.Shopping.testcases.Tc_VerifySearchProduct@4f2b503c]" started-at="2022-11-15T18:51:59 IST" name="verifyPayment" finished-at="2022-11-15T18:53:03 IST" duration-ms="64518" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <button class="action primary checkout" type="submit" data-bind="
+                        click: placeOrder,
+                        attr: {title: $t('Place Order')},
+                        css: {disabled: !isPlaceOrderActionAllowed()},
+                        enable: (getCode() == isChecked())
+                        " title="Place Order">...</button> is not clickable at point (565, 396). Other element would receive the click: <img alt="Loading..." src="https://magento.softwaretestingboard.com/pub/static/version1666447838/frontend/Magento/luma/en_US/images/loader-2.gif">
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-T14GJVG', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c200ac5bfb91301abc45094a5eee21e, clickElement {id=e3d3b6d5-4607-4d06-9445-6338191589fe}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Windows\TEMP\scoped_dir9...}, goog:chromeOptions: {debuggerAddress: localhost:59201}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59201/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (9c200ac5bfb91301abc45094a5eee21e)] -> xpath: //button[normalize-space()="Place Order"]]
+Session ID: 9c200ac5bfb91301abc45094a5eee21e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button class="action primary checkout" type="submit" data-bind="
+                        click: placeOrder,
+                        attr: {title: $t('Place Order')},
+                        css: {disabled: !isPlaceOrderActionAllowed()},
+                        enable: (getCode() == isChecked())
+                        " title="Place Order">...</button> is not clickable at point (565, 396). Other element would receive the click: <img alt="Loading..." src="https://magento.softwaretestingboard.com/pub/static/version1666447838/frontend/Magento/luma/en_US/images/loader-2.gif">
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-T14GJVG', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c200ac5bfb91301abc45094a5eee21e, clickElement {id=e3d3b6d5-4607-4d06-9445-6338191589fe}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Windows\TEMP\scoped_dir9...}, goog:chromeOptions: {debuggerAddress: localhost:59201}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59201/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (9c200ac5bfb91301abc45094a5eee21e)] -> xpath: //button[normalize-space()="Place Order"]]
+Session ID: 9c200ac5bfb91301abc45094a5eee21e
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at com.sun.proxy.$Proxy29.click(Unknown Source)
+at com.Shopping.pageobjects.PayementMethod.clickOnPlaceOrder(PayementMethod.java:21)
+at com.Shopping.testcases.Tc_VerifySearchProduct.verifyPayment(Tc_VerifySearchProduct.java:112)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPayment -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Shopping.testcases.Tc_VerifySearchProduct@4f2b503c]" started-at="2022-11-15T18:53:03 IST" name="tearDown" finished-at="2022-11-15T18:53:04 IST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Shopping.testcases.Tc_VerifySearchProduct -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
